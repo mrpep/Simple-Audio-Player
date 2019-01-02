@@ -12,3 +12,5 @@ Some missing features that could be added in the future:
   - Possibility of removing audios.
   - Randomize order, loop playlist, etc...
 - Add a MP3 decoder.
+
+Binary is supplied for Windows 64 bit, but the code can be compiled in other platforms, although it will require downloading the libraries and linking them in a project.
