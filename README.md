@@ -1,2 +1,2 @@
-# Simple-Audio-Player
-A C++ simple audio player based on wxWidgets, libsndfile and Portaudio
+# Minimal-Audio-Player
+A C++ minimal audio player based on wxWidgets, libsndfile and Portaudio.
